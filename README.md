@@ -1,4 +1,4 @@
 metrics-cdi
 ===========
 
-CDI integration for Metrics library
+CDI integration for https://github.com/codahale/metrics
